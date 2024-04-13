@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm GodCreator333 AKA Hari Preetham</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/10/2d/61/102d6120d8ba6d44809b81eb4c267a4c.jpg">
-# 💫 About Me:
 🔎I am an engineer and i love to build cool stuff<br>🚀I am currently working on a project that helps robots perceive.<br>🎆Lets move humanity up the kardhasev scale
 
 
