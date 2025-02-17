@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GodCreator333 AKA Hari Preetham</h1>
-🔎I am an engineer and i love to build cool stuff<br>🚀I am currently working on a project that helps robots perceive.<br>🎆Lets move humanity up the kardhasev scale
+🔎 I am an engineer and i love to build cool stuff<br>🚀 I am currently working on a project that helps robots perceive.<br>🎆 Lets move humanity up the kardhasev scale
 
 
 # 💻 Tech Stack:
